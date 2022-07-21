@@ -15,3 +15,5 @@ https://www.tomasbeuzen.com/python-programming-for-data-science/README.html
 https://madewithml.com/courses/foundations/python/
 
 https://sebastianraschka.com/blog/2020/numpy-intro.html#43-numpy-array-math-and-universal-functions
+
+https://cs229.stanford.edu/notes2020fall/notes2020fall/Fall_2020_Notebook.html
